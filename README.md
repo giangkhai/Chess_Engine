@@ -83,5 +83,5 @@ Handles:
 ---
 
 ## Contributors
-- Project by: [Khai Giang-Mien]
+- Project by: Khai Giang-Mien
 
